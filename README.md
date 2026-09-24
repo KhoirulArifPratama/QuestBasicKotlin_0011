@@ -12,31 +12,38 @@ Belajar cara membuat variabel tetap (val) dan variabel yang bisa diubah (var) di
 Readonly
 
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/fabd7a4b-b64f-4ea8-8751-4c6eee409df5" />
+
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/6f928e6c-6d60-474a-b809-dae9fdee1ad4" />
 
 Kondisional
 
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/61dbc7e9-4f1e-4f4d-8872-ab6123216fc4" />
+
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/5141bf40-2ad3-4335-a11c-5c0e8351d6a3" />
 
 
 Function
 
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/9ca28a66-66c8-440d-9edd-f14b294d8f6f" />
+
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/d748e3f2-7d3a-4526-a8eb-d2048f16e8c7" />
+
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/62b956c2-b8aa-4cc7-a7e3-43ed1255faa9" />
 
 
 Class & Data Class
 
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/a4150e5a-b07d-4fb5-8e10-c4c30a5cb875" />
+
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/872fc785-3ad8-4e94-884c-c622117756a8" />
 
 
 Null Safety
 
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/c37f4c6a-c8b7-4501-a5e9-63e45ba6f013" />
+
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/5a70517e-36c1-43cc-9663-f9a9afe9a98c" />
+
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/22331ccd-5e65-4b13-bc64-5d7b3c0ad123" />
 
 Hasil
